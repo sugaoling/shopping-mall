@@ -6,3 +6,55 @@
     margin: 10px auto;
     background-color: #3B5998;
 }
+/*logo样式开始*/
+#logo{
+    float: left;
+    margin: 0 0 0 10px;
+    color: #FFFFFF;
+    font-size: 3em;
+    font-weight: 700;
+    line-height: 80px;
+}
+#skin{
+    float: right;
+    margin: 10px;
+    padding: 4px;
+    width: 120px;
+    list-style: none;
+    border: 1px solid #cccccc;
+    background-color: #FFFFFF;
+}
+#skin li{
+    float: left;
+    width: 15px;
+    height: 15px;
+    overflow: hidden;
+    display: block;
+    cursor: pointer;
+    text-indent: -9999px;
+    /*background-image: url("../images/theme.gif");*/
+}
+#skin_0{
+    /*background-position: 0px 0px;*/
+    background-color: #ABABAB;
+}
+#skin_1{
+    /*background-position: 15px 0px;*/
+    background-color: #B1D410;
+}
+#skin_2{
+    /*background-position: 35px 0px;*/
+    background-color: #FAAB1A;
+}
+#skin_3{
+    /*background-position: 55px 0px;*/
+    background-color:#38C7D4 ;
+}
+#skin_5{
+    /*background-position: 75px 0px;*/
+    background-color:#E11556 ;
+}
+#skin_4{
+    /*background-position: 110px 0px;*/
+    background-color: #BC3BD8;
+}
