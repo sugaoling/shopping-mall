@@ -32,29 +32,23 @@
     display: block;
     cursor: pointer;
     text-indent: -9999px;
-    /*background-image: url("../images/theme.gif");*/
+    background-image: url("../images/theme.gif");
 }
 #skin_0{
-    /*background-position: 0px 0px;*/
-    background-color: #ABABAB;
+    background-position: 0px 0px;
 }
 #skin_1{
-    /*background-position: 15px 0px;*/
-    background-color: #B1D410;
+    background-position: 15px 0px;
 }
 #skin_2{
-    /*background-position: 35px 0px;*/
-    background-color: #FAAB1A;
+    background-position: 35px 0px;
 }
 #skin_3{
-    /*background-position: 55px 0px;*/
-    background-color:#38C7D4 ;
+    background-position: 55px 0px;
 }
 #skin_5{
-    /*background-position: 75px 0px;*/
-    background-color:#E11556 ;
+   background-position: 75px 0px;
 }
 #skin_4{
-    /*background-position: 110px 0px;*/
-    background-color: #BC3BD8;
+    background-position: 110px 0px;
 }
